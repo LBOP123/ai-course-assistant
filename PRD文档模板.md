@@ -84,7 +84,7 @@
 
 ## 4. 技术方案设计  
 ### 4.1 整体架构设计  
-https://my.microsoftpersonalcontent.com/_api/v2.1/drives/8D23C872CEFC2AB7/items/8D23C872CEFC2AB7!sc1f82edd0f094df8a9aa26ed2206e913/thumbnails/0/c955x955/content?prefer=noredirect%2Cclosestavailablesize&cb=%22c%3A%7BC1F82EDD-0F09-4DF8-A9AA-26ED2206E913%7D%2C3%22&eh=Scenario%3ABrowsePhoto&it=originalScale%3Ac512x512%2CdownloadScale%3Ac955x955%2Cmigrated%3Atrue%2CscenarioName%3ArenderPrimaryPhoto
+https://1drv.ms/i/c/8d23c872cefc2ab7/Ed0u-MEJD_hNqaom7SIG6RMB9VDpGLezr0mvNeHRFxZ3ww?e=8wsOsa
 ### 4.2 具体技术方案  
 #### 4.2.1 技术选型  
 - 框架：React 18 + TypeScript（类型安全，便于团队协作）；  
@@ -113,7 +113,7 @@ https://my.microsoftpersonalcontent.com/_api/v2.1/drives/8D23C872CEFC2AB7/items/
 
 ## 6. Demo内容  
 ### 6.1 界面原型图  
-https://my.microsoftpersonalcontent.com/_api/v2.1/drives/8D23C872CEFC2AB7/items/8D23C872CEFC2AB7!sfe1ac537dfbe4e8fb472093f250aad69/thumbnails/0/c955x955/content?prefer=noredirect%2Cclosestavailablesize&cb=%22c%3A%7BFE1AC537-DFBE-4E8F-B472-093F250AAD69%7D%2C3%22&eh=Scenario%3ABrowsePhoto&it=originalScale%3Ac512x512%2CdownloadScale%3Ac955x955%2Cmigrated%3Atrue%2CscenarioName%3ArenderPrimaryPhoto
+[https://my.microsoftpersonalcontent.com/_api/v2.1/drives/8D23C872CEFC2AB7/items/8D23C872CEFC2AB7!sfe1ac537dfbe4e8fb472093f250aad69/thumbnails/0/c955x955/content?prefer=noredirect%2Cclosestavailablesize&cb=%22c%3A%7BFE1AC537-DFBE-4E8F-B472-093F250AAD69%7D%2C3%22&eh=Scenario%3ABrowsePhoto&it=originalScale%3Ac512x512%2CdownloadScale%3Ac955x955%2Cmigrated%3Atrue%2CscenarioName%3ArenderPrimaryPhoto](https://1drv.ms/i/c/8d23c872cefc2ab7/ETfFGv6-349OtHIJPyUKrWkB4ETeTW3yJBdAprgruVtA5Q?e=BM9T8O)
 ### 6.2 交互Demo演示  
 - **操作流程**：  
   1. 用户点击“不懂”按钮，画面冻结并生成截图；  
