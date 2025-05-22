@@ -1,47 +1,46 @@
-# Getting Started with Create React App
+# AI Course Assistant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 项目简介
+AI Course Assistant 是一个基于 React 的应用程序，旨在帮助用户更好地理解和学习人工智能课程。该项目提供了一系列工具和资源，支持用户的学习过程。
 
-## Available Scripts
+## 安装步骤
+1. 克隆此仓库到本地：
+   ```bash
+   git clone https://github.com/yourusername/ai-course-assistant.git
+   ```
+2. 进入项目目录：
+   ```bash
+   cd ai-course-assistant
+   ```
+3. 安装依赖：
+   ```bash
+   npm install
+   ```
 
-In the project directory, you can run:
+## 使用说明
+- 运行开发服务器：
+  ```bash
+  npm start
+  ```
+  打开浏览器访问 [http://localhost:3000](http://localhost:3000) 查看应用。
 
-### `npm start`
+- 运行测试：
+  ```bash
+  npm test
+  ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 构建生产版本：
+  ```bash
+  npm run build
+  ```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 贡献指南
+欢迎贡献者！请遵循以下步骤：
+1. Fork 此仓库。
+2. 创建一个新的分支：`git checkout -b feature-branch-name`
+3. 提交更改：`git commit -m 'Add some feature'`
+4. 推送到分支：`git push origin feature-branch-name`
+5. 提交 Pull Request。
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-"# ai-course-assistant" 
+## 许可证
+此项目基于 MIT 许可证。
