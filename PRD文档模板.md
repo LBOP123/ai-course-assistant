@@ -125,9 +125,3 @@ https://1drv.ms/i/c/8d23c872cefc2ab7/Ed0u-MEJD_hNqaom7SIG6RMB9VDpGLezr0mvNeHRFxZ
 1. **技术文档**：Video.js官方文档、Socket.IO API参考；  
 2. **设计规范**：Material-UI样式指南；  
 3. **Demo地址**：（待补充）  
-
-
-**说明**：  
-1. 图片路径需根据实际存储位置修正（如`![图片描述](实际路径)`）；  
-2. 表格、代码块等格式已优化，符合Markdown规范；  
-3. 层级标题使用`##`/`###`区分，列表项统一使用短横线 `-`。
