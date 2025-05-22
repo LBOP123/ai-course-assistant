@@ -84,8 +84,7 @@
 
 ## 4. 技术方案设计  
 ### 4.1 整体架构设计  
-![Socket.IO客户端-后端WebSocket服务-用户-React应用-Video.js播放器-时间轴同步模块-Material-UI组件库-解析结果可视化](图片路径)  
-
+![Uploading image.png…]()
 ### 4.2 具体技术方案  
 #### 4.2.1 技术选型  
 - 框架：React 18 + TypeScript（类型安全，便于团队协作）；  
